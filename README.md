@@ -1,4 +1,4 @@
-# easy-peasy-bot
+# devbot, forked from easy-peasy-bot
 
 ## The story of a (Slack)bot
 
